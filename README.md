@@ -1,3 +1,5 @@
+Lorelvis Santos 20251020
+
 # Hola mundo con PHP, MySQL y Docker Compose
 
 Aplicación web de ejemplo que muestra **¡Hola, mundo!** y consulta MySQL para confirmar que la conexión funciona.
